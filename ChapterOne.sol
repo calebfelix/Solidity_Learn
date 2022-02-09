@@ -5,7 +5,7 @@ contract ChapterOne {
     bool isReady;
     uint a;
     address myAdd; 
-    bytes32 data; // usually used for any binary data commonly strings as there are not many string operations in solidity
+    bytes32 data; // It is usually used for binary data. commonly strings, as there are not many string operations in solidity.
 
     // 2. variable size type
     string name;
