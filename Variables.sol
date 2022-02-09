@@ -1,6 +1,6 @@
 pragma solidity ^0.5.11;
 
-contract ChapterOne {
+contract Variables {
     // 1. fixed size type
     bool isReady;
     uint a;
